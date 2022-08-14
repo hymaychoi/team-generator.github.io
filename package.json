@@ -9,7 +9,6 @@
     "test": "ng test"
   },
   "private": true,
-  "homepage": "https://hymaychoi.github.io/team-generator",
   "dependencies": {
     "@angular/animations": "^14.1.0",
     "@angular/common": "^14.1.0",
